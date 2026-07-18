@@ -53,6 +53,7 @@ def plot(*lines, title='', xlabel='', ylabel='', legend=0, legLoc='upper right')
 #an optical grid works. The criterion for the light path to obtain the maximum 
 #amplification of the waves:
 #delta = d * sin(beta) = m * wl
+#Visual demo: 1_OWP2_INKSCAPE_OpticalGrid.pdf
 #If we have 200 lines/mm, then d = 1 / 200 * 10**6 nm. If we shine a He-Ne la-
 #ser on the grid, then wl = 632.8nm, and the angle of diffraction will be:
 d = 1/200*10**6#nm
