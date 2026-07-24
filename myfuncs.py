@@ -1,6 +1,11 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+#2026.07.24 VERSION, SUBJECT TO CHANGE
+#2026.07.24 VERSION, SUBJECT TO CHANGE
+#2026.07.24 VERSION, SUBJECT TO CHANGE
+#2026.07.24 VERSION, SUBJECT TO CHANGE
+#2026.07.24 VERSION, SUBJECT TO CHANGE
+#2026.07.24 VERSION, SUBJECT TO CHANGE
 """
 ...........################...........#################......................................
 ...........#################..........###############.....................................
